@@ -1,0 +1,11 @@
+# Software Requirement
+
+Python ,Tkinter module, Pillow module ,Datascience library - Pandas , Skit_learn, Matplotlib etc
+Artificial Intelligence ,Machine learning.
+
+# Project Description
+
+Main.py is the first file to be accessed. Reliance.csv dataset contains 200 data, independent variable such as "Open" ,"Close","High","Low","Date"etc. and we predict the result of 20 data among the dataset. 
+Predictions of the stock in the form of  tabular data , Graphical representations would be displayed on the console. 
+
+
